@@ -1,0 +1,21 @@
+{
+  "name": "npmpkg",
+  "version": "1.0.0",
+  "description": "npmpkg",
+  "main": "0",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npmpkg"
+  },
+  "keywords": [
+    "npmpkg"
+  ],
+  "author": "npmpkg",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
